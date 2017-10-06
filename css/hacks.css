@@ -1,0 +1,5 @@
+#app > div > div:nth-child(3) > div:nth-child(3)
+{
+    visibility:collapse;
+    height:0;
+}
